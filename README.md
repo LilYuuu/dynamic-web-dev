@@ -1,6 +1,8 @@
 # Dynamic Web Dev
 ## Week 1: HTML + CSS
 
+![demo](documentation/week1.gif)
+
 ### How to set up and run the application
 Go to https://dynamic-web-dev-week1.glitch.me and you will see it live!
 
