@@ -1,4 +1,14 @@
 # Dynamic Web Dev
+## Week 3: Dynamic Web App Using APIs
+<img width="1728" alt="Screen Shot 2023-04-12 at 9 17 37 AM" src="https://user-images.githubusercontent.com/44248733/231470522-f3b1c5b9-0d4e-4604-b278-24e948092263.png">
+
+### Live Site
+https://dynamic-web-dev-week3.glitch.me
+
+### Process
+I utlized this free API called [meowfacts](https://github.com/wh-iterabb-it/meowfacts) that returns a random fact about cat each time getting requested and another called [Cataas](https://cataas.com/#/) that gives random cat pictures.
+Used `fetch` to make API requests in JavaScript. Made a button that refreshes the page.
+
 ## Week 2: Swiss Poster Design & Implementation
 <img width="883" alt="image" src="https://user-images.githubusercontent.com/44248733/229976250-831348b6-e34d-4790-83fe-18369bdf1bf3.png">
 
