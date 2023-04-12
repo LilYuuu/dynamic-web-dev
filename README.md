@@ -9,6 +9,8 @@ https://dynamic-web-dev-week3.glitch.me
 I utlized this free API called [meowfacts](https://github.com/wh-iterabb-it/meowfacts) that returns a random fact about cat each time getting requested and another called [Cataas](https://cataas.com/#/) that gives random cat pictures.
 Used `fetch` to make API requests in JavaScript. Made a button that refreshes the page.
 
+---
+
 ## Week 2: Swiss Poster Design & Implementation
 <img width="883" alt="image" src="https://user-images.githubusercontent.com/44248733/229976250-831348b6-e34d-4790-83fe-18369bdf1bf3.png">
 
