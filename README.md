@@ -1,4 +1,11 @@
 # Dynamic Web Dev
+## Final
+<img width="871" alt="Screen Shot 2023-05-02 at 11 48 06 PM" src="https://user-images.githubusercontent.com/44248733/235829383-188e530b-a3ee-4679-9840-b32080946a3b.png">
+
+I followed this [tutorial] (https://dev.to/devland/build-a-todo-app-with-react-and-firebase-47m1) and created a to-do list web app. It utilized React.js and Material UI for the front end and Firebase Cloud Firestore for the backend database.
+
+---
+
 ## Week 3: Dynamic Web App Using APIs
 <img width="1728" alt="Screen Shot 2023-04-12 at 9 17 37 AM" src="https://user-images.githubusercontent.com/44248733/231470522-f3b1c5b9-0d4e-4604-b278-24e948092263.png">
 
